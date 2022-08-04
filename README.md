@@ -3,6 +3,7 @@ I’m interested in front-end development, graphic design, 3D modeling, blockcha
 📫 How to reach me: @mathodicol on twitter
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasRauls&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mathiasrauls&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 MathiasRauls/MathiasRauls is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
