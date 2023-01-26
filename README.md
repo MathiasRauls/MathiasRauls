@@ -2,8 +2,6 @@
 I’m interested in front-end development, graphic design, 3D modeling, blockchain development & the metaverse. Currently I am learning about react.js blockchain development & front-end development. I would love to collaborate on any and all projects that could help sharpen my skills!
 📫 How to reach me: @mathodicol on twitter
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathiasRauls&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 <!---
